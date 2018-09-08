@@ -1,0 +1,4 @@
+#Sat Sep 08 16:07:36 SGT 2018
+base.0=/Users/henrylai/Downloads/ActionBarCompat-Styled/Application/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
